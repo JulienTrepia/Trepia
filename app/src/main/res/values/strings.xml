@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Deezer Sample</string>
+
+    <string name="deezer_url_api">https://api.deezer.com/</string>
+    <string name="deezer_user_id">5</string>
+
+    <string name="title">Title</string>
+    <string name="artist">Artist</string>
+    <string name="duration_mm_ss">3:15</string>
+    <string name="duration_hh_mm_ss">55:43:15</string>
+
+    <string name="error_no_playlist">Aucune playlist...</string>
+    <string name="error_no_track">Aucune musique...</string>
+</resources>
